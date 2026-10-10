@@ -28,3 +28,13 @@ OUTPUT
 ['avocado', 'banana', 'Orange']
 
 """
+
+
+print(len(fruits))
+
+print(fruits[0])
+
+print(fruits[-1])
+
+print(fruits[1:3]) #slice might me usefull latter
+

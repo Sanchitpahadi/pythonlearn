@@ -19,7 +19,8 @@ while count < 5:
     print(count)
     count += 1
 
-# break and continue
+
+
 for i in range(10):
     if i == 3:
         continue  # skip 3

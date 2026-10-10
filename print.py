@@ -8,7 +8,7 @@ print("hello ", name)
 """
 
 
-# using STRING MANNN
+
 """
 name = "sanchit"
 print(name.upper())        

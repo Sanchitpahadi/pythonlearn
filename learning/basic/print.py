@@ -8,7 +8,6 @@ print("hello ", name)
 """
 
 
-
 """
 name = "sanchit"
 print(name.upper())        
@@ -17,4 +16,8 @@ print(name[0])
 print(name[1:4])           
 print(len(name))           
 print("Hello" + " " + name)
+
 """
+name = "Sanchit"
+Numbers = 20
+print(f"{name} roll no is {Numbers}")

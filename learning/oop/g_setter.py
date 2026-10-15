@@ -29,3 +29,7 @@ print(c.area)
 c.radius = 10
 
 print(c.area)
+
+c.radius = 20
+
+print(c.area)
